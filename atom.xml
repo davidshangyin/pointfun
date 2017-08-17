@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>点趣</title>
+  <subtitle>Php 之道</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://pointfun.cn/"/>
+  <updated>2017-08-17T03:36:35.000Z</updated>
+  <id>http://pointfun.cn/</id>
+  
+  <author>
+    <name>david</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>学习网址</title>
+    <link href="http://pointfun.cn/2017/08/17/%E5%AD%A6%E4%B9%A0%E7%BD%91%E5%9D%80/"/>
+    <id>http://pointfun.cn/2017/08/17/学习网址/</id>
+    <published>2017-08-17T03:32:42.000Z</published>
+    <updated>2017-08-17T03:36:35.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="python"><a href="#python" class="headerlink" title="python"></a>python</h2><ul>
+<li><a href="http://docs.pythontab.com/python/python3.4/index.html" target="_blank" rel="external">Python3 中文手册</a></li>
+</ul>
+<hr>
+<h2 id="GoLang"><a href="#GoLang" class="headerlink" title="GoLang"></a>GoLang</h2><ul>
+<li><a href="http://studygolang.com/articles" target="_blank" rel="external">GO语言中文网</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;python&quot;&gt;&lt;a href=&quot;#python&quot; class=&quot;headerlink&quot; title=&quot;python&quot;&gt;&lt;/a&gt;python&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://docs.pythontab.com/python/python
+    
+    </summary>
+    
+    
+      <category term="学习资料" scheme="http://pointfun.cn/tags/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>点趣博客开通</title>
+    <link href="http://pointfun.cn/2017/08/15/%E7%82%B9%E8%B6%A3%E5%8D%9A%E5%AE%A2%E5%BC%80%E9%80%9A/"/>
+    <id>http://pointfun.cn/2017/08/15/点趣博客开通/</id>
+    <published>2017-08-15T08:14:10.000Z</published>
+    <updated>2017-08-15T08:23:57.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><em>点趣终于上线了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了，很开心，有木有？有木有？有木有？有木有？有木有？有木有？有木有？有木有？有木有？</em></p>
+<p><code>特此感谢：</code></p>
+<ol>
+<li><a href="https://hexo.io/zh-cn" target="_blank" rel="external">Hexo</a></li>
+<li><a href="https://github.com/iissnan/hexo-theme-next" target="_blank" rel="external">Hexo-theme-next</a></li>
+<li>…….</li>
+</ol>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;em&gt;点趣终于上线了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了了，很开心，有木有？有木有？有木有？有木有？有木有？有木有？有木有？有木有？有木有？&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;
+    
+    </summary>
+    
+    
+      <category term="日记" scheme="http://pointfun.cn/tags/%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
+  
+</feed>
