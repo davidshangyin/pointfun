@@ -426,7 +426,9 @@
   .header-tags span{
 	  margin-right: 10px;
   }
-
+  .highlight.plain{
+	  overflow: auto;
+  }
   /* Responsive */
   @media screen and (max-width: 760px){
 	dt,dd{
